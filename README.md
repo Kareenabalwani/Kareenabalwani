@@ -8,8 +8,8 @@
 
 ---
 
-- 🔭 I’m currently working at **Naapbooks Ltd** as an **Associate Software Developer**  
-- 💻 Skilled in **.NET**, **Node.js**, **React.js**, and **Redux**
+- 🔭 I’m currently working at <a href="https://naapbooks.com/">**Naapbooks Ltd**</a> as an **Associate Software Developer**  
+- 💻 Skilled in **.NET**, **Rest API**,**Node.js**, **React.js**, and **Redux**
 - 🛠 Actively working on backend and full-stack projects with modern web technologies  
 - ❓ Ask me anything related to **Backend Development** or **React**  
 - ✨ Fun fact: I find beauty in solving complex code challenges!
