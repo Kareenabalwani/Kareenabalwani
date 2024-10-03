@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kareena Balwani! 
 
-### <div align="center">I’m a Full-stack Developer specializing in .NET, Backend, and React.js 🚀</div>
+### <div align="center">I’m a Full-stack Developer specializing in .NET Core, Rest APIs, and React.js 🚀</div>
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
